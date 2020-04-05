@@ -1,8 +1,8 @@
 # Mapa de Coronavirus
 
-*Realizado con Gatsby, Leaflet y la API https://github.com/novelcovid/api
+Realizado con Gatsby, Leaflet y la API https://github.com/novelcovid/api
 
-*Link al proyecto [Coronavirus-19](https://blissful-pasteur-7c4724.netlify.com/)
+Link al proyecto [Coronavirus-19](https://blissful-pasteur-7c4724.netlify.com/)
 
 # 🍃 Gatsby Leaflet Starter
 
